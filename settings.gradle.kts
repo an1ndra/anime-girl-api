@@ -1,0 +1,1 @@
+rootProject.name = "com.codeavenge.anime-girl-api"
